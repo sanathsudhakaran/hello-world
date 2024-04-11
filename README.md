@@ -1,3 +1,3 @@
 # hello-world
 Practicing  GitHub
-Sanath K S 
+Hello Sanath, How are you ?
